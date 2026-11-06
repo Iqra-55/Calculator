@@ -13,33 +13,32 @@ A clean, responsive Scientific Calculator built using Flutter and Dart.
 - **Language**: Dart
 
 ## 🎥 App Demo
-<video src="https://github.com/user-attachments/assets/5487a733-5ecc-4e20-adf9-964b798f7738" controls width="320"></video>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5487a733-5ecc-4e20-adf9-964b798f7738" width="300" />
+</p>
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/330a13fe-2523-4947-870c-a41bc9c6aa99" width="200" />
-  <img src="https://github.com/user-attachments/assets/77a22983-39a4-46af-822b-df1341c44d2c" width="200" />
-  <img src="https://github.com/user-attachments/assets/b33acc91-3b61-497b-8ce9-f494444d60ce" width="200" />
-  <img src="https://github.com/user-attachments/assets/34db3633-5059-4e5f-8091-0209e6e5ece1" width="200" />
-  <img src="https://github.com/user-attachments/assets/05d7f558-2ee9-45e5-936f-b736e5d6f905" width="200" />
+  <img src="https://github.com/user-attachments/assets/330a13fe-2523-4947-870c-a41bc9c6aa99" width="180" />
+  <img src="https://github.com/user-attachments/assets/b33acc91-3b61-497b-8ce9-f494444d60ce" width="180" />
+  <img src="https://github.com/user-attachments/assets/34db3633-5059-4e5f-8091-0209e6e5ece1" width="180" />
+  <img src="https://github.com/user-attachments/assets/05d7f558-2ee9-45e5-936f-b736e5d6f905" width="180" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/962d8cc2-9eeb-423a-9eaf-78b70fb76d41" width="450" />
-  <img src="https://github.com/user-attachments/assets/63ba88cf-b355-44ed-a0cf-6ed8737d6d62" width="450" />
+  <img src="https://github.com/user-attachments/assets/962d8cc2-9eeb-423a-9eaf-78b70fb76d41" width="400" />
 </p>
 
 ## 🚀 How to Run Locally
+
 1. Clone this repository:
-   ```bash
-    git clone https://github.com/Iqra-55/Calculator.git
-   2. Navigate to project directory:
-   cd Calculator
-3. Install dependencies:
-   flutter pub get
-4. Run the app:
-   flutter run
-   ```
-
-
+```bash
+git clone https://github.com/Iqra-55/Calculator.git
+```
+1.Navigate to project directory:
+cd Calculator
+2.Install dependencies:
+flutter pub get
+3.Run the app:
+flutter run
