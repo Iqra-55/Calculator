@@ -19,7 +19,7 @@ A clean, modern, and responsive Scientific Calculator built using **Flutter and 
 ### Animated Preview
 
 <p align="center">
-  <img src="./calculator.gif" width="350" alt="Scientific Calculator Animated Demo"/>
+  <img src="./calculator.gif.gif" width="350" alt="Scientific Calculator Animated Demo"/>
 </p>
 
 ### Full Video Demonstration
