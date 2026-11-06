@@ -36,9 +36,15 @@ A clean, responsive Scientific Calculator built using Flutter and Dart.
 ```bash
 git clone https://github.com/Iqra-55/Calculator.git
 ```
-1.Navigate to project directory:
+2.Navigate to project directory:
+```bash
 cd Calculator
-2.Install dependencies:
+```
+3.Install dependencies:
+```bash
 flutter pub get
-3.Run the app:
+```
+4.Run the app:
+```bash
 flutter run
+```
