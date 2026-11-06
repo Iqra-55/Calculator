@@ -16,9 +16,17 @@ A clean, modern, and responsive Scientific Calculator built using **Flutter and 
 
 ## 🎥 App Demo
 
+### Animated Preview
+
+<p align="center">
+  <img src="./calculator.gif" width="350" alt="Scientific Calculator Animated Demo"/>
+</p>
+
+### Full Video Demonstration
+
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dc2ef15e-256f-4dfe-b08b-4a4183abb8bd">
-    ▶️ Watch Scientific Calculator Demo
+    ▶️ Watch Full Scientific Calculator Demo (MP4)
   </a>
 </p>
 
