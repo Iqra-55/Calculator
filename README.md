@@ -13,9 +13,9 @@ A clean, responsive Scientific Calculator built using Flutter and Dart.
 - **Language**: Dart
 
 ## 🎥 App Demo
-
-
+<p align="center">
 https://github.com/user-attachments/assets/dc2ef15e-256f-4dfe-b08b-4a4183abb8bd
+</p>
 
 
 
@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/dc2ef15e-256f-4dfe-b08b-4a4183abb8bd
     
 ##  🚀 How to Run Locally
 
-1. Clone this repository:
+1.Clone this repository:
 
 ```bash
 git clone https://github.com/Iqra-55/Calculator.git
