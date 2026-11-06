@@ -13,9 +13,11 @@ A clean, responsive Scientific Calculator built using Flutter and Dart.
 - **Language**: Dart
 
 ## 🎥 App Demo
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5487a733-5ecc-4e20-adf9-964b798f7738" width="300" />
-</p>
+
+
+https://github.com/user-attachments/assets/dc2ef15e-256f-4dfe-b08b-4a4183abb8bd
+
+
 
 ## 📸 Screenshots
 
